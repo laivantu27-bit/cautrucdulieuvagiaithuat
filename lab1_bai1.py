@@ -1,6 +1,6 @@
 def snippet_1(n):
-    total = 0 # 1 phép gán
-    for i in range(n): # lặp n lần
+    total = 0 
+    for i in range(n): 
         total = total + 1
     return total
 # Độ phức tạp: O(n)
